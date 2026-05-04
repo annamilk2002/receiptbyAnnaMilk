@@ -8,10 +8,10 @@
 :root {
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body: 'DM Sans', system-ui, sans-serif;
-  --color-cream: #fdf9f0;
-  --color-earth: #5c3d1e;
-  --color-sage: #87a96b;
-  --color-spice: #e07849;
+  --color-cream: #f0f4fb;
+  --color-earth: #1e4976;
+  --color-sage: #1976d2;
+  --color-spice: #2196f3;
 }
 
 * {
@@ -42,10 +42,10 @@ h1, h2, h3 {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #faf0d7;
+  background: #e8f0fe;
 }
 ::-webkit-scrollbar-thumb {
-  background: #e09a28;
+  background: #1565c0;
   border-radius: 3px;
 }
 
